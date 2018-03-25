@@ -1,0 +1,8 @@
+{
+  "name": "appazing",
+  "app_id": "00ddf1db",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
